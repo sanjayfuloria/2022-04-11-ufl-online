@@ -251,7 +251,7 @@ Display the contact email address set in the configuration file.
 
 <p id="registration">
   <strong>Registration:</strong>
-  To register for this workshop please use the link <a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-shell-git-plotting-programming-in-python/">Registration</a>.
+  To register for this workshop please use the following link <a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-shell-git-plotting-programming-in-python/">Registration</a>.
   </p>
 
 {% comment %}
