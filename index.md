@@ -249,6 +249,11 @@ Display the contact email address set in the configuration file.
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
 </p>
 
+<p id="registration">
+  <strong>Registration:</strong>
+  To register for this workshop please use the link <a href="https://informatics.research.ufl.edu/registration-uf-carpentries-club-shell-git-plotting-programming-in-python/">Registration</a>.
+  </p>
+
 {% comment %}
 WHO CAN ATTEND?
 
